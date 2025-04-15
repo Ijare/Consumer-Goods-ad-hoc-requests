@@ -48,9 +48,9 @@ As a candidate, my task was to:
   
 ## 📁 Project Structure
 
-- **Meta Data/** – Folder to store mock data files 
-- **SQL Queries/** – Folder with all your SQL scripts  
+- **Meta Data** – Folder to store mock data files 
+- **SQL Queries** – Folder with all your SQL scripts  
 - **dashboard view.mp4** – short video of visuals in power bi  
-- **presentation/** –  presentation file of consumer goods ad_hoc_insights 
+- **presentation** –  presentation file of consumer goods ad_hoc_insights 
 - **ad-hoc-requests.pdf** – PDF file that contains the 10 business questions  
 - **README.md** – The markdown file that explains your project (this file)
