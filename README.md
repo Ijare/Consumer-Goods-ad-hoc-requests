@@ -1,9 +1,9 @@
 # Consumer-Goods-ad-hoc-requests
-# Atliq Hardwares - SQL + Power BI Challenge Project
+# Atliq Hardwares - SQL Challenge Project
 
 **Domain:** Consumer Goods  
 **Function:** Executive Management  
-**Tools Used:** SQL, Power BI, PowerPoint, [Optional: Video Editing Tool]
+**Tools Used:** SQL, Power BI, PowerPoint
 
 ## 📘 Project Overview
 
