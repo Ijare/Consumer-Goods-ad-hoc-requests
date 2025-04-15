@@ -25,15 +25,32 @@ As a candidate, my task was to:
 - Visuals include KPIs, trend analysis, and breakdowns based on the business questions.
 - Designed with simplicity, clarity, and storytelling in mind.
 
-> 📌 Note: [Add a screenshot or GIF preview of your dashboard here – optional but impactful!]
+## ✅ Key Highlights
 
-## 📂 Project Structure
+- 🔍 **Answered 10 real-world business questions using SQL**  
+  Solved actual ad-hoc data requests simulating a real business scenario.
 
-```bash
-├── data/                     # Sample/mock data (if provided)
-├── queries/                  # SQL scripts for all 10 ad-hoc questions
-├── powerbi-dashboard.pbix    # Power BI report file
-├── presentation/             # PowerPoint or PDF summary of insights
-├── video/                    # (Optional) Video explanation or demo
-├── ad-hoc-requests.pdf       # Document with business questions
-└── README.md                 # Project overview (this file)
+- 📈 **Built a Power BI dashboard with clean, executive-level visuals**  
+  Designed to help top-level management make fast, data-driven decisions.
+
+- 🧠 **Transformed raw data into clear, actionable insights**  
+  Focused on data storytelling, not just data reporting.
+
+- 🎤 **Created a presentation**  
+  Demonstrated both technical and soft skills like communication and business acumen.
+
+## 🧠 What I Learned
+
+- ✅ **Advanced SQL** for data extraction, aggregation, and transformation.
+- ✅ **Power BI dashboard design** tailored for executive audiences.
+- ✅ **Structuring insights** into a compelling, decision-friendly narrative.
+- ✅ **Real-world ad-hoc request handling**—valuable analyst experience.
+  
+## 📁 Project Structure
+
+- **Meta Data/** – Folder to store mock data files 
+- **SQL Queries/** – Folder with all your SQL scripts  
+- **dashboard view.mp4** – short video of visuals in power bi  
+- **presentation/** –  presentation file of consumer goods ad_hoc_insights 
+- **ad-hoc-requests.pdf** – PDF file that contains the 10 business questions  
+- **README.md** – The markdown file that explains your project (this file)
