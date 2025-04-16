@@ -1,5 +1,5 @@
 # Consumer-Goods-ad-hoc-requests
-# Atliq Hardwares - SQL Challenge Project
+# Codebasics Resume Project Challenge #4 - SQL Challenge Project
 
 **Domain:** Consumer Goods  
 **Function:** Executive Management  
